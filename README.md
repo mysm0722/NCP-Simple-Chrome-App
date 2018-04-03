@@ -1,6 +1,9 @@
 # NCP Simple Chrome App
 NCP Simple Console Chrome App
 
+# Gitbook Description
+https://mysm0722.gitbooks.io/my-project-book/content/ncp-simple-console-chrome-app.html
+
 # Chrome App Development Guide
 https://developer.chrome.com/extensions/devguide
 
